@@ -33,7 +33,7 @@ r=4*/
 
 /*Exp_4 = Part C*/
 
-int bit_to_be_set,bit_to_be_reset,a1,a2;
+    int bit_to_be_set,bit_to_be_reset,a1,a2;
     int a = 50;
     cout<<"Enter the bit to be reset:"<<endl;
     cin>>bit_to_be_reset;
